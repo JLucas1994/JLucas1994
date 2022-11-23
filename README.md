@@ -1,6 +1,6 @@
 - 👋 Hi, I’m José Lucas
-- 👀 I’m interested in learning & work in Java development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in learning & work in Data Analysis
+- 🌱 I’m currently learning PHP and SQL
 - 💞️ I’m looking to collaborate on projects that acepts junior's developers
 - 📫 How to reach me joselucassan.sil@gmail.com
 
